@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Letter Frequency Analysis
 # abruz & jbies121
 def checkLetters(let):
